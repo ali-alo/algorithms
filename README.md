@@ -4,5 +4,5 @@ This repository is not for assessment it is just my extracurricular study.
 
 ### Following algorithms are explained
 
-  - [Binary algorithms]
+  - Binary algorithms
 
