@@ -8,4 +8,5 @@ This repository is not for assessment it is just my extracurricular study.
   - Selection sort (sorting algorithm) 
   - Recursion and Call stack
   - Divide & Conquer design and quick sort algorithm 
+  - Hash tables
 
