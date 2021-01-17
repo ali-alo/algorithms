@@ -2,7 +2,7 @@
 
 This repository is not for assessment it is just my extracurricular study. 
 
-### Following topics are briefly explained
+### Following topics are reviewed
 
   - Binary algorithms
   - Selection sort (sorting algorithm) 

@@ -1,6 +1,6 @@
 from collections import deque
 
-#  Suppose that we have a mango tree and we want to sell mangoes
+# Suppose that we have a mango tree and we want to sell mangoes
 # To sell mangoes we need a seller. We decided to look for a seller in our Facebook profile.
 
 # Firstly we want check from the friend list, if we have a friend who is selling mangoes
