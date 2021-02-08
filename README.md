@@ -10,4 +10,5 @@ This repository is not for assessment it is just my extracurricular study.
   - Divide & Conquer design and quick sort algorithm 
   - Hash tables
   - Breadth-first search (FIFO and LIFO)
+  - Dijkstra’s algorithm (DAG)
 
