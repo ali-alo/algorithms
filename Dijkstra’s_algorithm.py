@@ -1,12 +1,12 @@
-# Breadth-first algorithm works great with graph, however, we cannot use it when weighted graphs.
+# Breadth-first algorithm works great with graph, however, we cannot use it with weighted graphs.
 # When we are working with weighted graphs (when each edge has a certain cost), we use Dijkstra's algorithm
 
 # Sometimes with weighted graphs a detour (passing through more vertexes) can lead to a lower cost of reaching a
 # vertex. However, Dijkstra's algorithm is not appropriate with negative weigh of edges. In this situation we use
 # Bellman-Ford algorithm.
 
-# Dijkstra's algorithm works also only with directed acyclic graph DAG. That is, all edges must be directed (there
-# should be edges that point to each other) and there should not be "trap edge" where we can fall in an infinite loop.
+# Dijkstra's algorithm works also only with directed acyclic graph DAG. That is, all edges must be directed
+# and there should not be "trap edge" where we can fall in an infinite loop.
 
 # To use Dijkstra's algorithm we have to create 3 hash tables: graph (where we will store edges to other nodes),
 # costs (where we will store and update costs from one node to another) and parents (to update our rote).
